@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Heuristic Algorithm | Haojun Huang&#39;s homepage</title>
+    <link>https://MSCAOTIS.github.io/tags/heuristic-algorithm/</link>
+      <atom:link href="https://MSCAOTIS.github.io/tags/heuristic-algorithm/index.xml" rel="self" type="application/rss+xml" />
+    <description>Heuristic Algorithm</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://MSCAOTIS.github.io/media/icon_hu3725090598258042538.png</url>
+      <title>Heuristic Algorithm</title>
+      <link>https://MSCAOTIS.github.io/tags/heuristic-algorithm/</link>
+    </image>
+    
+    <item>
+      <title>Resource Reservation and Request Routing for a Cloud-Based Content Delivery Network</title>
+      <link>https://MSCAOTIS.github.io/publication/8705926/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://MSCAOTIS.github.io/publication/8705926/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
