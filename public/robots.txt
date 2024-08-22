@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://mscaotis.github.io/Homepage/sitemap.xml
