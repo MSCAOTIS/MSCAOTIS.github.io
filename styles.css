@@ -1,0 +1,47 @@
+html {
+    font-size: 100%; /* 基础字体大小 */
+}
+
+body {
+    font-family: 'Lora', serif;
+    font-size: 1rem;
+    line-height: 1.8;
+    color: #333;
+    margin-top: 60px;
+}
+
+h1, h2 {
+    font-family: 'Playfair Display', serif;
+    font-weight: bold;
+    color: #222;
+    margin-bottom: 20px;
+}
+
+h3, h4, h5, h6 {
+    font-family: 'Arial', serif;
+}
+
+p {
+    font-size: 1rem;
+    text-align: justify;
+    margin-bottom: 20px;
+}
+
+.navbar-brand {
+    font-family: 'Playfair Display', serif;
+    font-size: 1.5rem;
+}
+
+.logo-container {
+    display: flex;
+    align-items: center; /* 垂直居中对齐 */
+    justify-content: space-around; /* 水平分布 */
+    flex-wrap: wrap; /* 允许换行 */
+    gap: 20px; /* 图片之间的间距 */
+}
+
+.logo-container img {
+    max-height: 125px; /* 限制图片最大高度 */
+    height: auto;
+    width: auto;
+}
