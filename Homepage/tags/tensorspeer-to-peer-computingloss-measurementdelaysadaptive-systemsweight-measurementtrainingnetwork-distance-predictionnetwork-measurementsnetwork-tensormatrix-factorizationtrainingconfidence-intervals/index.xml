@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tensors;Peer-to-Peer Computing;Loss Measurement;Delays;Adaptive Systems;Weight Measurement;Training;Network Distance Prediction;network Measurements;network Tensor;matrix Factorization;training;confidence Intervals | Haojun Huang&#39;s homepage</title>
+    <link>https://mscaotis.github.io/Homepage/tags/tensorspeer-to-peer-computingloss-measurementdelaysadaptive-systemsweight-measurementtrainingnetwork-distance-predictionnetwork-measurementsnetwork-tensormatrix-factorizationtrainingconfidence-intervals/</link>
+      <atom:link href="https://mscaotis.github.io/Homepage/tags/tensorspeer-to-peer-computingloss-measurementdelaysadaptive-systemsweight-measurementtrainingnetwork-distance-predictionnetwork-measurementsnetwork-tensormatrix-factorizationtrainingconfidence-intervals/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tensors;Peer-to-Peer Computing;Loss Measurement;Delays;Adaptive Systems;Weight Measurement;Training;Network Distance Prediction;network Measurements;network Tensor;matrix Factorization;training;confidence Intervals</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://mscaotis.github.io/Homepage/media/icon_hu3725090598258042538.png</url>
+      <title>Tensors;Peer-to-Peer Computing;Loss Measurement;Delays;Adaptive Systems;Weight Measurement;Training;Network Distance Prediction;network Measurements;network Tensor;matrix Factorization;training;confidence Intervals</title>
+      <link>https://mscaotis.github.io/Homepage/tags/tensorspeer-to-peer-computingloss-measurementdelaysadaptive-systemsweight-measurementtrainingnetwork-distance-predictionnetwork-measurementsnetwork-tensormatrix-factorizationtrainingconfidence-intervals/</link>
+    </image>
+    
+    <item>
+      <title>TNDP: Tensor-Based Network Distance Prediction With Confidence Intervals</title>
+      <link>https://mscaotis.github.io/Homepage/publication/9454377/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://mscaotis.github.io/Homepage/publication/9454377/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

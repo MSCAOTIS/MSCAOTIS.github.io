@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Parallel Processing;Training;Servers;Hidden Markov Models;Deep Reinforcement Learning;Costs;Convergence;Network Function Virtualization;parallel Placement;federated Learning;deep Reinforcement Learning;multiple Domains | Haojun Huang&#39;s homepage</title>
+    <link>https://mscaotis.github.io/Homepage/tags/parallel-processingtrainingservershidden-markov-modelsdeep-reinforcement-learningcostsconvergencenetwork-function-virtualizationparallel-placementfederated-learningdeep-reinforcement-learningmultiple-domains/</link>
+      <atom:link href="https://mscaotis.github.io/Homepage/tags/parallel-processingtrainingservershidden-markov-modelsdeep-reinforcement-learningcostsconvergencenetwork-function-virtualizationparallel-placementfederated-learningdeep-reinforcement-learningmultiple-domains/index.xml" rel="self" type="application/rss+xml" />
+    <description>Parallel Processing;Training;Servers;Hidden Markov Models;Deep Reinforcement Learning;Costs;Convergence;Network Function Virtualization;parallel Placement;federated Learning;deep Reinforcement Learning;multiple Domains</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://mscaotis.github.io/Homepage/media/icon_hu3725090598258042538.png</url>
+      <title>Parallel Processing;Training;Servers;Hidden Markov Models;Deep Reinforcement Learning;Costs;Convergence;Network Function Virtualization;parallel Placement;federated Learning;deep Reinforcement Learning;multiple Domains</title>
+      <link>https://mscaotis.github.io/Homepage/tags/parallel-processingtrainingservershidden-markov-modelsdeep-reinforcement-learningcostsconvergencenetwork-function-virtualizationparallel-placementfederated-learningdeep-reinforcement-learningmultiple-domains/</link>
+    </image>
+    
+    <item>
+      <title>Parallel Placement of Virtualized Network Functions via Federated Deep Reinforcement Learning</title>
+      <link>https://mscaotis.github.io/Homepage/publication/10453466/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://mscaotis.github.io/Homepage/publication/10453466/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
